@@ -1,0 +1,15 @@
+.grid {
+    margin: 40px 0 0;
+  }
+  .btn{
+    margin-top:15px;
+    padding:10px;
+    cursor:pointer;
+    border-radius:5px;
+    border:2px solid rgb(86, 76, 76);
+  }
+  .btn:hover{
+    background-color: rgb(36, 75, 75);
+    color:white;
+    transition:0.5s;
+  }
